@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254230602469",
+    "project_id": "my-memory-be3c9",
+    "storage_bucket": "my-memory-be3c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254230602469:android:f147b0d2e2061fa3776a0c",
+        "android_client_info": {
+          "package_name": "com.example.mygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254230602469-f93e4cu2h3fioafju0ncb8esbuvkbupi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhFzDpxM9JjLetY6IDApsBl8pHyg0iE5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254230602469-f93e4cu2h3fioafju0ncb8esbuvkbupi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
